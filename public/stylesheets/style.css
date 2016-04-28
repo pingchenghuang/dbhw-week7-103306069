@@ -1,12 +1,7 @@
 body {
-	padding: 50px;
-	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-	background: url(http://purrfectcatnames.com/wp-content/uploads/2013/11/Gray-Cat-MorgueFile-Nov16th-2013.jpg) center center fixed no-repeat;
-	-moz-background-size: cover;
-	background-size: cover;
-	opacity:0.4;
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
-
 
 a {
   color: #00B7FF;
